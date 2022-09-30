@@ -1,4 +1,4 @@
-
+        --Your core name if you dont know your core name go to server.cfg and check 
 local QBCore = exports['QBCore']:GetCoreObject()
 
 local camZPlus1 = 1500
